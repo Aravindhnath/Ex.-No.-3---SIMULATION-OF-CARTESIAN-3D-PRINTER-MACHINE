@@ -49,7 +49,7 @@
 
 ## OUTPUT
 ### X-Axis Assembly :
-![image](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/459596d1-a8e0-4527-8bdf-c55c90d347ea)
+![Empd_Lab03(1)](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/e471e761-2b04-464d-bc56-50e60f4848a1)
 #### SMOOTH ROD :
 It is guide rail component made up of hardened-steel or chrome plated steel .it smoothness ensures precise and consistent movement which is needed to produce accurate and high quality models
 #### BEARING :
@@ -61,7 +61,7 @@ Extruder is used to melting and extruding the filament onto the print bed
 #### MOTOR :
 Motor is help to movement of the print head along x,y,z axes.
 ### Y-Axis Assembly :
-![image](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/e7a0f583-3424-4228-9966-05fd02231f3b)
+![Empd_Lab03(2)](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/40dc7c0d-7ba6-4404-9639-2180b053a48f)
 #### Y AXIS SUPPORTER :
 The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability.
 #### Horizontal & Vertical Threaded Rod :
@@ -77,7 +77,7 @@ It is responsible for support and stability of y axis frame.and also z axis.
 #### Y AXIS BASE :
 The Y-axis base is responsible for providing stability and support to the entire printer's structure, including the Y-axis frame, the print bed, and the printed object.
 ### Z-Axis Assembly :
-![image](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/026e16e7-4f6a-4790-838f-45fb98845977)
+![Empd_Lab03(3)](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/1a52cab1-b116-4e9c-8667-af2e55fc6bc0)
 #### Z AXIS ROD :
 The z-axis rod is responsible for supporting the weight of the print head and controlling its movement as it moves up and down during the printing process
 #### Z AXIS TOP COVER :
@@ -85,7 +85,7 @@ The primary purpose of the z-axis top cover is to prevent dust and debris from s
 #### MOTOR :
 Motor is help to movement of the print head along x,y,z axes.
 ### Complete Assembly :
-![image](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/16078b83-97ec-46cd-891f-3f03588b4acb)
+![Empd_Lab03(4)](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/3517d520-1f21-42de-9d34-a3574434b17a)
 #### FRAME :
 Rigid structure that holds all the other components of the printer.
 #### Y AXIS ASSEMBLY :
@@ -93,7 +93,7 @@ The Y-axis is responsible for moving the print bed back and forth along the hori
 #### Z AXIS ASSEMBLY :
 The Z-axis is responsible for moving the print head up and down along the vertical axis.
 
-![image](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/77500945-b59e-4fce-b786-0fdd0b4c13f2)
+![Empd_Lab03(5)](https://github.com/Aravindhnath/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118790841/51a5fe07-01d0-4bbf-9494-ef072745f547)
 
 
 ### Name: Aravindhnath TR
